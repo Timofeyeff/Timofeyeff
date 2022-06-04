@@ -9,7 +9,7 @@
 
 <br />
 
-Hi! My name is Maksim and i'm DevOps. I'm used Docker, K8s, ansible, python e.t.c for my work.
+My name is Maksim and i'm DevOps. I'm used Docker, K8s, ansible, python e.t.c for my work.
 
 <br />
  
